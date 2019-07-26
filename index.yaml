@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2019-07-26T15:52:31.60925+08:00"
+entries:
+  hello-helm:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-07-26T15:58:26.997918+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 1d052dda044cd51b9ab6157f069cd7ea611207b7b975deba4b488a6f67291245
+    name: hello-helm
+    urls:
+    - https://raw.githubusercontent.com/yingray/helm-charts/master/hello-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-07-26T15:58:26.997312+08:00"
